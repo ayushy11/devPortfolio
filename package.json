@@ -1,6 +1,5 @@
-{
-  "name": "devPortfolio",
-  "homepage": "https://ayushy11.github.io/devPortfolio",
+{  
+  "name": "dev-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
