@@ -25,7 +25,7 @@ From your command line, clone and run devPortfolio:
 $ git clone https://github.com/ayushy11/devPortfolio.git
 
 # Go into the repository
-$ cd developerFolio
+$ cd devPortfolio
 
 # Install dependencies
 $ npm install
