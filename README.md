@@ -2,6 +2,9 @@
 
 ## A clean, beautiful and responsive portfolio!
 
+## Description
+This is a ReactJS based portfolio website configured by me, which is based on this <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a>.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -31,5 +34,3 @@ $ npm install
 $ npm start
 ```
 
-## Credits
-#### Credits to Saad Pasta <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a>
