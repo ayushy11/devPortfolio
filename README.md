@@ -3,7 +3,7 @@
 ## A clean, beautiful and responsive portfolio!
 
 ## Description
-This is a ReactJS based portfolio website configured by me, which is based on this <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a>.
+This is a ReactJS based portfolio website configured by me, based on this <a href='https://github.com/saadpasta/developerFolio'>Repo</a>.
 
 ## Getting Started
 
